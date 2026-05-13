@@ -8,14 +8,17 @@ Node.js · TypeScript · AWS · Terraform · Serverless · Event-driven systems 
 
 ## Featured Projects
 
-### AWS Architecture Portfolio
-AWS architecture portfolio with Terraform-based reference implementations.
+- [AWS Architecture Portfolio](https://github.com/hongzz0618/aws-architecture-portfolio)  
+  AWS architecture portfolio with Terraform-based reference implementations.
 
-### AWS Serverless API Backend
-Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
+- [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)  
+  Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
 
-### AWS GenAI Starter
-AWS Bedrock starter project using Terraform and GitHub Actions OIDC.
+- [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)  
+  AWS Bedrock starter project using Terraform and GitHub Actions OIDC.
+
+- [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)  
+  Containerized web application on AWS using ECS Fargate, ALB, EFS, and Terraform.
 
 ## Currently Improving
 
