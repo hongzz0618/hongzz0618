@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hong
 
-<!--
-**hongzz0618/hongzz0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Cloud Engineer focused on Node.js, TypeScript, AWS Serverless, Terraform, and cloud architecture.
 
-Here are some ideas to get you started:
+## Core Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js · TypeScript · AWS · Terraform · Serverless · Event-driven systems · CI/CD
+
+## Featured Projects
+
+### AWS Architecture Portfolio
+AWS architecture portfolio with Terraform-based reference implementations.
+
+### AWS Serverless API Backend
+Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
+
+### AWS GenAI Starter
+AWS Bedrock starter project using Terraform and GitHub Actions OIDC.
+
+## Currently Improving
+
+- AWS Solutions Architect knowledge
+- Cloud security and observability
+- Production-ready backend architecture
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/hongzz/
