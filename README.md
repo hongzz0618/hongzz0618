@@ -1,15 +1,17 @@
 # Hi, I'm Hong
 
-Backend / Cloud Engineer focused on Node.js, TypeScript, AWS Serverless, Terraform, and cloud architecture.
+Backend / Cloud Engineer focused on Node.js, TypeScript, AWS Serverless, containers, Terraform, and cloud architecture.
 
 ## Core Stack
 
-Node.js · TypeScript · AWS · Terraform · Serverless · Event-driven systems · CI/CD
+Node.js | TypeScript | AWS | Terraform | Serverless | Containers / ECS | Event-driven systems | CI/CD
 
-## Featured Projects
+## Reference Hub
 
 - [AWS Architecture Labs](https://github.com/hongzz0618/aws-architecture-labs)  
-  AWS architecture reference projects with Terraform-based implementations.
+  Reference hub for AWS/backend architecture labs, practical cloud patterns, and engineering trade-offs.
+
+## Featured Projects
 
 - [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)  
   Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
@@ -24,7 +26,7 @@ Node.js · TypeScript · AWS · Terraform · Serverless · Event-driven systems 
 
 - AWS Solutions Architect knowledge
 - Cloud security and observability
-- Production-readiness considerations for backend architecture
+- Operational readiness considerations for backend architecture
 
 ## Contact
 
