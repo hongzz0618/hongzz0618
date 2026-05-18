@@ -1,6 +1,6 @@
 # Hi, I'm Hong
 
-Backend / Cloud Engineer focused on Node.js, TypeScript, AWS Serverless, containers, Terraform, and cloud architecture.
+Backend Software Engineer focused on Node.js, TypeScript, AWS, Terraform, serverless, containers, and cloud backend architecture.
 
 ## Core Stack
 
@@ -16,11 +16,11 @@ Node.js | TypeScript | AWS | Terraform | Serverless | Containers / ECS | Event-d
 - [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)  
   Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
 
-- [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)  
-  GenAI reference lab using Amazon Bedrock, Lambda, DynamoDB, API Gateway, GitHub Actions, and Terraform.
-
 - [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)  
   Containerized web application on AWS using ECS Fargate, ALB, EFS, and Terraform.
+
+- [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)  
+  GenAI reference lab using Amazon Bedrock, Lambda, DynamoDB, API Gateway, GitHub Actions, and Terraform.
 
 ## Currently Improving
 
