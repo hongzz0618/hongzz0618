@@ -2,6 +2,8 @@
 
 Backend Software Engineer focused on Node.js, TypeScript, AWS, Terraform, serverless, containers, and cloud backend architecture.
 
+Technical homepage: https://hongzz0618.github.io/
+
 ## Core Stack
 
 Node.js | TypeScript | AWS | Terraform | Serverless | Containers / ECS | Event-driven systems | CI/CD
