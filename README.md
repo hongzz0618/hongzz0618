@@ -19,7 +19,7 @@ Node.js | TypeScript | AWS | Terraform | Serverless | Containers / ECS | Event-d
   Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
 
 - [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)  
-  Containerized web application on AWS using ECS Fargate, ALB, EFS, and Terraform.
+  Containerized web application on AWS using ECS Fargate, ALB, ECR, and Terraform.
 
 - [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)  
   GenAI reference lab using Amazon Bedrock, Lambda, DynamoDB, API Gateway, GitHub Actions, and Terraform.
