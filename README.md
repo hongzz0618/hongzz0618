@@ -1,35 +1,32 @@
 # Hi, I'm Hong
 
-Backend Software Engineer focused on Node.js, TypeScript, AWS, Terraform, serverless, containers, and cloud backend architecture.
+Backend Software Engineer working mainly with Node.js, TypeScript, AWS, and Terraform.
 
-Technical homepage: https://hongzz0618.github.io/
+I focus on backend systems, serverless applications, containerized services, infrastructure as code, and practical trade-offs around reliability, security, observability, and cost.
+
+[Technical Homepage](https://hongzz0618.github.io/) · [LinkedIn](https://www.linkedin.com/in/hongzz/)
 
 ## Core Stack
 
-Node.js | TypeScript | AWS | Terraform | Serverless | Containers / ECS | Event-driven systems | CI/CD
-
-## Reference Hub
-
-- [AWS Architecture Labs](https://github.com/hongzz0618/aws-architecture-labs)  
-  Reference hub for AWS/backend architecture labs, practical cloud patterns, and engineering trade-offs.
+`Node.js` · `TypeScript` · `AWS` · `Terraform` · `Serverless` · `ECS / Fargate` · `Event-driven systems` · `CI/CD` · `CloudWatch`
 
 ## Featured Projects
 
-- [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)  
-  Serverless backend using API Gateway, Lambda, DynamoDB, and Terraform.
+### [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)
 
-- [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)  
-  Containerized web application on AWS using ECS Fargate, ALB, ECR, and Terraform.
+A TypeScript serverless API using API Gateway, Lambda, DynamoDB, and Terraform, with idempotent writes, optimistic locking, API contract validation, CI, and CloudWatch observability.
 
-- [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)  
-  GenAI reference lab using Amazon Bedrock, Lambda, DynamoDB, API Gateway, GitHub Actions, and Terraform.
+### [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)
 
-## Currently Improving
+A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private networking, autoscaling, ECR image releases, container scanning, and Terraform.
 
-- AWS Solutions Architect knowledge
-- Cloud security and observability
-- Operational readiness considerations for backend architecture
+### [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)
 
-## Contact
+A serverless backend integrating Amazon Bedrock with Lambda, API Gateway, DynamoDB, Terraform, IAM boundaries, observability, and cost controls.
 
-LinkedIn: https://www.linkedin.com/in/hongzz/
+## Current Focus
+
+- Backend and cloud architecture on AWS
+- Serverless reliability and observability
+- Container deployment and runtime operations
+- Infrastructure as Code and CI/CD
