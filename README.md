@@ -18,11 +18,11 @@ A TypeScript serverless API using API Gateway, Lambda, DynamoDB, and Terraform, 
 
 ### [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)
 
-A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private networking, autoscaling, ECR image releases, container scanning, and Terraform.
+A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private networking, autoscaling, immutable ECR image releases, container scanning, and Terraform.
 
 ### [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)
 
-A serverless backend integrating Amazon Bedrock with Lambda, API Gateway, DynamoDB, Terraform, IAM boundaries, observability, and cost controls.
+An authenticated TypeScript GenAI backend using Cognito, API Gateway JWT authorization, Lambda, Amazon Bedrock, DynamoDB, and Terraform, with user-scoped chat history, bounded context, contract validation, and structured telemetry.
 
 ## Current Focus
 
