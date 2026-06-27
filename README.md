@@ -18,7 +18,7 @@ A TypeScript serverless API using API Gateway, Lambda, DynamoDB, and Terraform, 
 
 ### [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)
 
-A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private networking, autoscaling, immutable ECR image releases, container scanning, and Terraform.
+A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private tasks, autoscaling, immutable ECR image releases, container scanning, Terraform, and documented AWS deployment validation.
 
 ### [AWS GenAI Starter](https://github.com/hongzz0618/aws-genai-starter)
 
