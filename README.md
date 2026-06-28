@@ -14,7 +14,7 @@ I focus on backend systems, serverless applications, containerized services, inf
 
 ### [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)
 
-A TypeScript serverless API using API Gateway, Lambda, DynamoDB, and Terraform, with idempotent writes, optimistic locking, API contract validation, CI, CloudWatch observability, and documented AWS runtime validation.
+A TypeScript serverless API using API Gateway, Lambda, DynamoDB, DynamoDB Streams, SQS, and Terraform, with idempotent writes, optimistic locking, idempotent async processing, DLQ recovery, CloudWatch observability, CI, and documented AWS runtime validation.
 
 ### [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)
 
