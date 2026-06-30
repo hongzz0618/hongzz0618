@@ -12,15 +12,15 @@ I focus on backend systems, serverless applications, containerized services, inf
 
 ## Featured Projects
 
-### [AWS Serverless API Backend](https://github.com/hongzz0618/aws-serverless-api-backend)
+### [Reliable Serverless Backend](https://github.com/hongzz0618/aws-serverless-api-backend)
 
 A TypeScript serverless API using API Gateway, Lambda, DynamoDB, DynamoDB Streams, SQS, and Terraform, with idempotent writes, optimistic locking, idempotent async processing, DLQ recovery, CloudWatch observability, CI, and documented AWS runtime validation.
 
-### [AWS Containerized Web App](https://github.com/hongzz0618/aws-containerized-web-app)
+### [ECS Fargate Container Delivery](https://github.com/hongzz0618/aws-containerized-web-app)
 
 A containerized TypeScript service running on ECS Fargate behind an Application Load Balancer, with private tasks, autoscaling, immutable ECR image releases, container scanning, Terraform, and documented AWS deployment validation.
 
-### [AWS Bedrock Chat Backend](https://github.com/hongzz0618/aws-bedrock-chat-backend)
+### [Authenticated Bedrock Chat Backend](https://github.com/hongzz0618/aws-bedrock-chat-backend)
 
 An authenticated TypeScript GenAI backend using Cognito, API Gateway JWT authorization, Lambda, Amazon Bedrock, DynamoDB, and Terraform, with user-scoped chat history, bounded context, contract validation, structured telemetry, and documented AWS deployment validation.
 
