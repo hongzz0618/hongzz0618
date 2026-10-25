@@ -24,6 +24,10 @@ A containerized TypeScript service running on ECS Fargate behind an Application 
 
 An authenticated TypeScript GenAI backend using Cognito, API Gateway JWT authorization, Lambda, Amazon Bedrock, DynamoDB, and Terraform, with user-scoped chat history, bounded context, contract validation, structured telemetry, and documented AWS deployment validation.
 
+### [AI Agent Workflows](https://github.com/hongzz0618/ai-agent-workflows)
+
+A reusable Codex Skill for read-only ticket analysis, repository investigation, and implementation planning with human approval. Includes global instruction templates for Codex and Claude Code, with a real backend development case study.
+
 ## Current Focus
 
 - Backend and cloud architecture on AWS
